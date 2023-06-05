@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: gold;
+}
+.navbar_links {
+    padding: 14px 10px;
+    margin: auto;
+    font-size: 18px;
+}
+button{
+    background-color: green;
+    border: solid white;
+    border-radius: 8px;
+    font-size: 18px;
+    float: right;
+}
+button:hover{
+    background-color: gold;
+}
+.navbar{
+
+}
+    

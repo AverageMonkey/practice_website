@@ -8,7 +8,7 @@ a {
     color: white;
 }
 a:hover{
-    color: gold;
+    color: lightgreen;
 }
 .navbar_links {
     padding: 14px 10px;
@@ -24,10 +24,10 @@ button{
     color: white;
 }
 button:hover{
-    background-color: gold;
+    background-color: lightgreen;
 }
 .active{
-    color: gold;
+    color: lightgreen;
 }
 nav{
     background-color: black;
@@ -42,4 +42,36 @@ nav{
     text-align: center;
     font-size: 13px;
 }
-    
+.self_links{
+    color: gold;
+}
+.self_links:hover{
+    color: black;
+}
+.footer{
+    background-color: black;
+    padding: 10px 10px;
+    margin: auto;
+
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+}
+.p_main{
+    padding: 13px 0px;
+}
+.p_footer{
+    padding: 10px 0px;    
+}
+.con{
+    padding: 13px 0px;
+}
+.con_main{
+    padding: 10px 0px;
+}
